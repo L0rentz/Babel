@@ -9,6 +9,8 @@ sqlite3 (server side)
   
 The project should be cross platform (windows/linux) and consists of a server and a client. The server connects clients between them and handle messages/commands,   but the voice communication should be done in p2p using udp between two clients.  
   
+<img src="https://raw.github.com/L0rentz/Babel/master/examples/example.gif" width="600" height="296"/>  
+  
 Usage : 
   
 You will need conan first, good luck.  
