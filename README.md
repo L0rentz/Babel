@@ -16,7 +16,7 @@ You will need conan first, good luck.
 Afterr that use ./build.sh  
   
 Then copy paste this in your terminal :  
-export ALSA_CONFIGDIR=~/.conan/data/libalsa/1.1.9//_/package/d48130e0dd76369b1338deb3b2372c5a649f9f2d/res/alsa~export ALSA_CONFIG_DIR=/usr/share/alsa  
+export ALSA_CONFIG_DIR=/usr/share/alsa  
 export ALSA_CONFIGDIR=~/.conan/data/libalsa/1.1.9//_/package/d48130e0dd76369b1338deb3b2372c5a649f9f2d/res/alsa  
   
 Now you can go in the folder build and from this folder start the server located in bin first and then any amount of clients.  
