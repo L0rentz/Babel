@@ -10,6 +10,6 @@ sqlite3 (server side)
 The project should be cross platform (windows/linux) and consists of a server and a client. The server connects clients between them and handle messages/commands,   but the voice communication should be done in p2p using udp between two clients.  
   
 Usage : ./build.sh  
-Then go in the folder build/bin and start the server first and any amount of clients.  
+Then go in the folder build and from this folder start the server located in bin first and then any amount of clients.  
   
 You will need conan, good luck.  
